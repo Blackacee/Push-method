@@ -1,2 +1,4 @@
 # Push-method
-Adding items to the end of array using push() method 
+ 
+var array = [1, 2, 3];
+array.push(4, 5, 6);
